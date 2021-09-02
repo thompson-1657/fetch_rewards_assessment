@@ -1,0 +1,25 @@
+{
+  "name": "fetch_rewards_assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thompson-1657/fetch_rewards_assessment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thompson-1657/fetch_rewards_assessment/issues"
+  },
+  "homepage": "https://github.com/thompson-1657/fetch_rewards_assessment#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.4",
+    "morgan": "^1.10.0"
+  }
+}
