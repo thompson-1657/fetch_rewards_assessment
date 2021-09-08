@@ -1,0 +1,17 @@
+GET http://localhost:3000/transactions
+
+###
+
+GET http://localhost:3000/transactions/61345060d6ad9d24217b6dc9
+
+### 
+
+POST http://localhost:3000/transactions
+Content-Type: application/json
+
+{
+   "payer": "DANNON", 
+   "points": 300, 
+   "timestamp": "2020-10-31T10:00:00Z"
+}
+
