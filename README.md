@@ -25,3 +25,12 @@ The application can then be run by typing npm run devStart in the terminal. The 
 ```
 http://localhost:3000/
 ```
+
+## Technologies
+
+- JavaScript
+- Node.js
+- Express
+- Mongoose
+- Dotenv
+- Nodemon
